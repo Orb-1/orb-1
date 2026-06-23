@@ -9,3 +9,8 @@ Je teste rebase
 Nouvelle feature 2
 Code Code Code
 print"(Hello, World !)"
+jj
+        message = f"""
+<html>
+<h1>Hello World !</h1>
+"""
